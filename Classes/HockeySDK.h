@@ -1,4 +1,4 @@
-/*
+ /*
  * Author: Andreas Linde <mail@andreaslinde.de>
  *
  * Copyright (c) 2012-2014 HockeyApp, Bit Stadium GmbH.
